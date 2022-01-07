@@ -5,7 +5,7 @@ tsachleben/tsachleben is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 #### My Job
-Technical Project Admin @northeastern-khoury
+Technical Project Admin [@northeastern-khoury](https://github.com/northeastern-khoury)
 
 #### My Work
 [![wakatime](https://wakatime.com/badge/user/eba15eed-f7de-4230-8801-ebdffde045b8.svg)](https://wakatime.com/@eba15eed-f7de-4230-8801-ebdffde045b8)
